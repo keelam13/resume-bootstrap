@@ -375,3 +375,7 @@ button[type="submit"] {
         max-width: 50%;
     }
 }
+
+div#map {
+    min-height: 360px;
+}
